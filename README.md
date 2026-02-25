@@ -106,7 +106,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=nageshgithub3&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
@@ -114,7 +114,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
+  <a href="https://www.buymeacoffee.com/nagesh_buymecoffee">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p
